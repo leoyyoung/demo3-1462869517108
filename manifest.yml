@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: 99cloud.cloud
+  name: demo3
+  host: demo3
+  disk_quota: 1024M
